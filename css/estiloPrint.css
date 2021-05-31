@@ -1,0 +1,13 @@
+#nomeNovo, #infoPessoaisNova, #enderecoNovo, #infoContatoNovo, #infoObjetivoNovo, #spanDetalheExperiencia, #spanExperiencia, #spanFormacao, #spanComplementar, #spanReferencia,
+#checkFoto, #acaoImprimir, #experiencia, #info-experiencias #addExperiencia {
+	display: none;
+}
+
+#detalheExperiencia {
+	background-color: red;
+}
+
+*[id^=btn],*[id^=btnLista], *[id^=listaReferenciaItem] {
+	display: none !important;
+}
+

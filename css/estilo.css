@@ -1,0 +1,99 @@
+* {
+	box-sizing: border-box;
+}
+
+form {
+	margin: 60px;
+}
+
+
+.info-foto {
+	position: relative;
+	background-color: red;
+	width: 0%;
+	height: 0%;
+	left: 60px;
+	bottom: 50px;
+}
+
+.info-principal {
+	position: relative;
+	margin-left: 32%;
+	padding: 4px;
+}
+
+.info-principal-nome {
+	font-size: 26px;
+	padding-bottom: 18px;
+}
+
+.info-objetivo {
+	position: relative;
+	margin-left: 16%;
+	padding: 40px;
+	overflow: auto;
+}
+
+.info-objetivo > span {
+	font-size: 20px;
+}
+
+.info-formacao {
+	position: relative;
+	margin-left: 16%;
+	padding: 40px;
+	overflow: auto;
+}
+
+.info-formacao > span {
+	font-size: 20px;
+}
+
+.info-experiencias {
+	position: relative;
+	margin-left: 16%;
+	padding: 40px;
+	overflow: auto;
+	font-size: 20px;
+}
+
+.info-experiencias > span {
+	font-size: 20px;
+}
+
+.info-experiencias-cargo {
+	font-size: 20px;
+	padding: 2px;
+}
+
+.info-complementares {
+	position: relative;
+	margin-left: 16%;
+	padding: 2px;
+	overflow: auto;
+}
+
+.info-complementares > span {
+	font-size: 20px;
+}
+
+.info-referencias {
+	position: relative;
+	margin-left: 16%;
+	padding: 2px;
+	overflow: auto;
+}
+
+.info-referencias > span {
+	font-size: 20px;
+}
+
+.info {
+	display: block;
+}
+
+.botoes {
+	margin-left: 40%;
+	position: relative;
+	top: 26px;
+}
